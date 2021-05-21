@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cj-Singh3281
+- 👋 Hi, I’m @Cj-Singh3281 (Chiranjiv Singh)
 - 👀 I’m interested in Industrial Technology and currently working on Artificial Intelligence 
 - 🌱 I’m currently pursuing B.tech in Electronics and Telecommunication at KIIT University
 - 💞️ I’m looking to collaborate on ...
